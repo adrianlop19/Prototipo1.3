@@ -1,12 +1,14 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+Este es el prototipo del proyecto de Green Foot, es una primera versión,
+por ende todavia falta terminarlo y argegarle los detalles que sean suficientes.
+Con las flechas se mueve el caños y con espacio se dispara.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Proyecto GreenFoot
+PURPOSE OF PROJECT: Prototipo
+VERSION or DATE:1.3
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: Adrián López
+USER INSTRUCTIONS: Con las flechas el caños de mueve a la izquierda o derecha
+, con espacio se dispará las balas. Se debe de disparar solo a la comida chatarra
+o dañina.
