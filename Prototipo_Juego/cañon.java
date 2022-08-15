@@ -15,9 +15,9 @@ public class cañon extends Actor
     public void act()
     {//Funcion para que el caño se mueva de lado a lado
         if (Greenfoot.isKeyDown("right")){
-        setLocation(getX()+10,getY());}
+        setLocation(getX()+5,getY());}
         if (Greenfoot.isKeyDown("left")){
-        setLocation(getX()-10,getY());}
+        setLocation(getX()-5,getY());}
         shooter();
     }
     public void shooter(){//Funcion para disparar las balas de cañon con espacio

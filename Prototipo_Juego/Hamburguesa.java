@@ -17,7 +17,7 @@ public class Hamburguesa extends Actor
         World w =getWorld();
         setLocation(getX(), getY()+1);
        if(isAtEdge()){
-           w.removeObject(this);
+           setLocation((Greenfoot.getRandomNumber(600)),5);
         }
     }
 }
