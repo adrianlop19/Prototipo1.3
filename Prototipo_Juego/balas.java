@@ -54,8 +54,12 @@ public class balas extends Actor
         if(isTouching(Cupcake.class)){
             count.scoreM++;
             removeTouching(Cupcake.class);
-        }    
-    }
+        }
+        else
+        if(count.scoreB>=17){
+            Greenfoot.stop();
+        }
     }
     
+}
 }

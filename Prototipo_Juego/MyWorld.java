@@ -76,5 +76,30 @@ public class MyWorld extends World
         addObject(papas5,366,138);
         Hamburguesa hamburguesa3 = new Hamburguesa();
         addObject(hamburguesa3,29,155);
-    }
+        Calabaza calabaza5 = new Calabaza();
+        addObject(calabaza5,456,168);
+        Manzana manzana4 = new Manzana();
+        addObject(manzana4,372,85);
+        Manzana manzana5 = new Manzana();
+        addObject(manzana5,476,63);
+        Manzana manzana6 = new Manzana();
+        addObject(manzana6,680,113);
+        naranja naranja3 = new naranja();
+        addObject(naranja3,171,90);
+        Manzana manzana7 = new Manzana();
+        addObject(manzana7,25,84);
+        Manzana manzana8 = new Manzana();
+        addObject(manzana8,96,111);
+        naranja naranja4 = new naranja();
+        addObject(naranja4,528,120);
+        Hamburguesa hamburguesa4 = new Hamburguesa();
+        addObject(hamburguesa4,547,184);
+        Hamburguesa hamburguesa5 = new Hamburguesa();
+        addObject(hamburguesa5,272,208);
+    }   
 }
+        
+        
+        
+    
+
